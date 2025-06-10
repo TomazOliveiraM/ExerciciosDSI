@@ -1,4 +1,17 @@
 {
+<<<<<<< HEAD
+=======
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+>>>>>>> 7c90523e21a5444ef189b730387040793b71745f
   "dependencies": {
     "express": "^5.1.0"
   }
